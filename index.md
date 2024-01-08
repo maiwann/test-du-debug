@@ -5,6 +5,6 @@ in_menu: true
 ---
 # Les poissons mous 
 
-Miaou
+Miaou & Ouaf !!
 
-![Imag tram]({% link images/tram.png %}) 
+![Image tram]({% link images/tram.png %}) 

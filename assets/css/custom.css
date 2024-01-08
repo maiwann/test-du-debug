@@ -1,3 +1,8 @@
 :root {
     --couleur-primaire : #0E6270;
 }
+
+body {
+  background : pink;
+}
+

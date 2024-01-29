@@ -14,5 +14,3 @@ Je propose également des **ateliers de journal créatif en ligne et en présent
 Je m'adresse à toute personne qui ressent **le besoin de faire évoluer sa vie**, ainsi qu'aux structures qui accompagnent les personnes dans leur évolution professionnelle ou personnelle. 
 
 A bientôt 
-
-![gc]({% link images/GC_LOGOS_RVB_LOGO_ROUGE_FOND BLEU.png 30%}) 
